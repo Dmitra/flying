@@ -1,7 +1,6 @@
-#Flying
+# Flying
 canvas experiment
 
-##Demo
-[Flying logo](http://dmitra.com/vis/flying)
+## [Demo](http://daviste.com/demo/flying)
 
-![Snapshot](https://raw.githubusercontent.com/Dmitra/flying/master/snapshot/1.jpg)
+[![Flying logo](https://raw.githubusercontent.com/Dmitra/flying/master/snapshot/1.jpg)](http://daviste.com/demo/flying)
